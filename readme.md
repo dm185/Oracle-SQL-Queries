@@ -7,7 +7,7 @@
 ------------------------------------------------------
 * Having read several articles over the Internet on how structured query language (SQL) can often be a highly sought-after skill for data analysts and data scientists. I took it upon myself to take a course provide through the Institute of Veterans & Military Families as part of a program called Onward to Opportunity. The course I chose I was the Oracle Database 12 SQL Associate Certification course. Having had some previous knowledge of SQL, I wanted to gain a much deeper understanding in not only writing more complex queries, but a deeper understanding on relational databases. 
 
-## Solifying skills  
+## Solidifying skills  
 -----------------------------------------------------------------------------------------
 * When it comes to learning a new skill or advancing a current skill, I find that watching videos and doing practice test questions will only go so far when it comes to applying skills in the workplace. My first goal is to pass the exam. Passing the exam is only the beginning. In order to retain the skills, I have learned, I continue to find ways to apply the skills I have learned by writing and executing queries against from a det of data. Although this project involves querying from mock data that I have created, I believe it does serve the purpose in helping to reinforce what I have learned. 
  
